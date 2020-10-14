@@ -176,7 +176,7 @@
 
 SecurityContext中存储了当前用户的认证以及权限信息，从Context中我们也可以大概猜到，他是一个上下文的变量。
 
-![image-20201014205112275](E:%5CMD%E6%96%87%E4%BB%B6%E4%BF%9D%E5%AD%98%E7%9A%84%E5%9B%BE%5Cimage-20201014205112275.png)
+![image-20201014205112275](https://i.loli.net/2020/10/14/e6nTOsLVMIwm4xN.png)
 
 至此，我们Spring Security的简单介绍就到此结束。
 
